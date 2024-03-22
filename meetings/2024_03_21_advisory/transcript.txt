@@ -1,0 +1,492 @@
+00:00:00:00 - 00:00:50:11
+Unknown
+All right. Well, hello, everyone. Welcome to our first advisory committee meeting. Hopefully you can see some slides. Great. Okay. So this is the Exoplanet Science Yield Working Group Advisory Committee. Kick off meeting. We're going to spend some time going through what this is and why we've roped all of you into this. Obviously, because you're awesome and relevant. And then what we hope to accomplish and finally, hopefully for the most amount of time, solicit your input and suggestions for future steps and directions moving forward.
+
+00:00:50:13 - 00:01:33:05
+Unknown
+So please feel free to interrupt and either just yell out or use the zoom hand raising or just grab our attention any way you can. Okay. So I want to remind everybody that by participating in anything related to go to our speech bureau, we are agreeing to the Go to Bureau code of contact the code excuse me, code of conduct, which basically says that we all agreed to the NASS Astrophysics Division Statement of principles, which in turn says that we all agree to abide by the U.S. Code of Ethics and there is a particular reporting protocol, if you note any violations of any of this.
+
+00:01:33:07 - 00:01:56:09
+Unknown
+So and for further details, you can go to the full code of contact which is given in this link here. Okay. So we wanted to spend just a couple of minutes on introductions. I think many of us know each other, but it's always good to make sure that everybody is on the same page. So hello, my name is Dmitry Savransky.
+
+00:01:56:09 - 00:02:22:10
+Unknown
+I am an associate professor at Cornell University in the Department of Mechanical and Aerospace Engineering, as well as the Department of Astronomy. And I am co-leading this effort with Chris Stark, who will introduce himself next. And so I've been doing yield modeling for exoplanet missions for about 11 billion years, and I'm very excited to be doing it again in the context of each of you.
+
+00:02:22:12 - 00:02:44:23
+Unknown
+Okay. I'm going to call on people in the order they appear on my screen so that there's no zoom ambiguity. So, Chris, please introduce yourself here. Hi, everyone. I'm Chris Stark. I'm collating this with Dmitri. Very excited, as Dmitri said, to have a mission to finally be working on. It's been a long time coming and I'm excited that the role that this group is going to play.
+
+00:02:44:23 - 00:03:18:04
+Unknown
+So I was involved in Luvoir have X, the Decadal Survey and a handful of other things leading up to the stress case study, the chronograph design survey study and have worked with many of you independently and really looking forward to working with all of you as one group. Okay. Corey everyone. My name is Corey Stone. I am currently and VP at Goddard working with Chris Stark.
+
+00:03:18:06 - 00:04:04:20
+Unknown
+Right now I'm working on simulating Coronagraph images, and previously I did my Ph.D. at Cornell with Dmitri, working on systems. Steve I guess that would be me. Sorry, I was expecting a different list. And Steve Reisen. I met NASA Ames. My main reason I'm here is I've been on the Kepler mission since 2005 and lately I've been very focused on it Earth and now the API of a large effort to reprocess the Kepler data to improve our estimates and aid Earth X.
+
+00:04:04:22 - 00:04:44:10
+Unknown
+Yes, Zoom very unhelpfully, tells us that a different order on everybody's screen. So you have no idea who to call on next. But it's going to be be okay. I am ready. Avi Mondo, NASA's Goddard. I do a little bit of everything these days, mostly thinking about exoplanet spectroscopy and characterization and exoplanet retrievals and mission design. I worked on Luvoir and a lot of other stuff, so yeah, happy to be here.
+
+00:04:44:12 - 00:05:11:03
+Unknown
+Sarah Awesome. Everyone, my name is Sara Steiger. I'm currently a postdoctoral fellow at Space Telescope. Currently, I'm working largely at the McKinnon Optics Lab, so developing high contrast imaging algorithms, techniques for future space missions like H0, also doing some exposure time stuff. But my Ph.D. was spent at UC Santa Barbara, where I worked with Ben Rosin on using superconducting detectors for exoplanet imaging.
+
+00:05:11:05 - 00:05:44:02
+Unknown
+So I also have a lot of interest in sort of energy resolving and superconducting detectors as well. All right, Natasha. Hi, everyone. My name is Natasha. I'm a PhD student, although in two weeks and a day I will be a Ph.D. candidate. So, you know, by the next time we meet, hopefully I work with Avi on the planet Retrievals using a lot of Bayesian analysis so that we can understand the detectability requirements of different biosignatures like water, oxygen, ozone.
+
+00:05:44:04 - 00:06:18:04
+Unknown
+In terms of center and wavelength, it's the Barbee Project. If that's popped up on your archive, very, very excited to be here and to the help out great Kevin Hi everybody, I'm Kevin. So I am at the NASA Ames Research Center. I work in a lab with Dan Server and Russ Bell. Acuff We work primarily on the design and prototyping of new types of coronagraph instrumentation.
+
+00:06:18:06 - 00:06:45:09
+Unknown
+I also do some fun little observing projects on the side. The most interesting thing that we did recently worked with Ben on a current graphic observation of a Quasar 3c2 73 that that was published recently in case investor interested. And yeah, I am really looking forward to seeing how we can push the envelope with what we can do as a chronograph and have works right.
+
+00:06:45:12 - 00:07:31:19
+Unknown
+Roser Hi, traditional. I'm a massive Goddard and I work mostly on a bunch of things now what chronograph simulation as well as internal film spectroscopy. Now retrievals and everything. In terms of the simulation, we also have a cleanroom in which we are developing new technologies for the coronagraph, including deformable mirror, parabolic deformable mirrors and new designs. Ronda you're muted rather.
+
+00:07:31:21 - 00:08:01:07
+Unknown
+Thanks. All right, so I run to Morgan. I'm at JPL and I've been working on yield modeling using Exosomes since 2015, and I lead the standards definition and evaluation team that did the apples to apples comparison of how back some louvau. I was also the technologist for hab X, and so I'm looking forward to continuing doing a lot of work on yields.
+
+00:08:01:09 - 00:08:37:03
+Unknown
+Excellent revenue. I think I saw you driving, but if it is safe for you to do so, please say hello. Oh, hello. When you hear JPL, so sorry for the background noise. So I'm I'm indeed in a car and I study exoplanet atmospheres, observation, modeling retrievals. And I'm also co-leading the characterizing exoplanet working group. So I'm representing that working group, at least with the Yield Working Group.
+
+00:08:37:05 - 00:09:27:05
+Unknown
+Thanks, Ryan. You Tiffany. Hi, I'm Tiffany Glassman. I met Northrup many years ago. I was worked on star shades and did some modeling of yields and like observation planning with that program. I spent last almost ten years on this team but excited to be working on exoplanet detection mission again. So happy to help. Great Bruce and Bruce Macintosh said in Review of California Santa Cruz and done the rather a lot of ground based exoplanet direct imaging as well as being heavily involved in the Roman and kind of the early to middle days of the definition process it sets here and down for wavefront setting and control, which I don't normally think of as something I
+
+00:09:27:05 - 00:09:53:03
+Unknown
+have a lot to contribute on in this context, but who knows? And I think I'm also interested and maybe more useful on thinking about the interactions between special flora and post-processing. That set contrast because we don't really have a post-processing expert as such identified by that title excuse me on this list. And obviously what plausible contrast flaws are is a big question as well as kind of big requirements training.
+
+00:09:53:03 - 00:10:23:14
+Unknown
+And then I'm also in the HBO start world with John Crist. I co-chaired the Science Data Simulations Group on Chronographs, which is of course different than this group in the in the siloed structure we have. But really is 95% this group. And so it's probably a discussion with Chris and Dmitri about merging them, which would be great because then I wouldn't have to do anything or things along those lines or things along those lines.
+
+00:10:23:14 - 00:10:43:09
+Unknown
+So offline discussion. But if, if they don't get merged, then part of why I'm here is to be the overlap between them. Although I will drag some of you on to the steering committee for it 95%. I think they should get merged. Thank you, Bruce. And yes, we will be absolutely discussing the interconnects between the Starchild working groups and a little bit.
+
+00:10:43:11 - 00:11:09:05
+Unknown
+I'm going to leave at once. I may missed that, but you can summarize it for me. Sure. I will try to get through this Facebook. We are so just to more than everyone. I'm a dancer, but I'm at NASA's Ames, where I work with Kevin and Russ on a novel. Novel choreographs novel Wavefront sensing and control one thing we've been working on since for a few months now.
+
+00:11:09:05 - 00:11:41:01
+Unknown
+We started a new project on photonic integrated circuits to do on nailing photonic knowledge iconography. We have used wavefront slicing and control in new ways, such as enabling binary star observations, looking for exoplanets around binary stars. I'm also a member of the CPE, where we're looking at how we can with supporting track and the baseline mode, as well as enabling guest wavefront sensing and control algorithms and things we can learn from Roman and apply them to HBO.
+
+00:11:41:03 - 00:12:13:10
+Unknown
+And for anybody who might not be up on their acronyms, CP is the Roman CHRONOGRAPH Community Participation Program, which is what passes for a science team for a pure technology demonstrator. And Dan, of course, is one of our valuable members. Okay. And finally, Stuart, if you've got your lunch and you're like, I am Stuart Suckling, I've worked extensively in both Chronographs and starships and a lot of work in error budgeting architecture, for example.
+
+00:12:13:11 - 00:12:41:12
+Unknown
+TFC And that's some astrometry and a lot of work in yield modeling back in the day. So interested in pretty much everything this group wants to do. Excellent. Glad to have you. Oh, and Susan. Hello. Welcome. We were just quickly introducing ourselves, so if you could please introduce yourself. Hi. Yeah, sorry about that. I'm Susan Bogoch at Caltech with the Nature HMO.
+
+00:12:41:14 - 00:13:13:06
+Unknown
+And, yeah, I've done a lot of work on skiing's Ever put you. My cousin for my B.S.? Yeah. Anything else? But that's great. Thank you. Okay, so, I mean, on the slide that's up, you kind of see a notional, like, reason for why you're here. But really, you're here because you all have extensive expertise and very, very relevant things that relate to our main goal of yield modeling for specifically for exoplanet imaging detections and characterizations.
+
+00:13:13:08 - 00:13:36:04
+Unknown
+And so we are very glad to have you. Thank you. And as you can see, this is a subset. We have, I think, roughly eight more people who are doing silly things like enjoying themselves in New Zealand or, you know, that tend to go very important conference in New Zealand. So there's additional people filling in various expertise gaps.
+
+00:13:36:06 - 00:14:04:20
+Unknown
+Okay. So very quickly, logistics and resources, for those of you who have already started participating in various Star Trek activities, there is a very, very extensive shared Google Drive that has a whole bunch of good stuff, including our particular Google Drive subfolder, which contains important things like this presentation. So if you do not have access to that, please contact Chris or we can put you in touch with somebody else.
+
+00:14:04:22 - 00:14:25:21
+Unknown
+And to ensure that you do have access in the future. We have now an email listserv that I can interrupt for just once. I get to be specific. I'm going to assume that your default email is the one you want to use for access to that Google folder unless you let me know. So if you want to use a different Gmail account or something, please reach out.
+
+00:14:26:02 - 00:14:38:06
+Unknown
+But everybody will be given access. Great. Thanks, Chris. Apple has weird gmail email names for our Google accounts.
+
+00:14:38:08 - 00:15:09:03
+Unknown
+Yes. Okay, so there's a email listserv which so far just has a group of people on the previous slide. And and I realize I can't spell keep and I'm not going to try to edit this on the fly. But yes, there is kind of an open question as we move forward. Do we want to open this up to the much broader interest the community and this working group that numbers in the above 100 at this point, or do we want to have separate communications mechanisms?
+
+00:15:09:03 - 00:15:30:19
+Unknown
+And this is not necessarily a thing that we have to answer right now, but something to decide. There's two different Slack channels. I think we will primarily be hosting our stuff in the HBO community since we are not and it's our group or our group, there's no reason not to have it in the public facing channel. And we will set up a dedicated channel as soon as I get.
+
+00:15:30:21 - 00:15:54:01
+Unknown
+And acknowledgment from Meghan that the one that we that the name that we want to use is okay with her. So these are going to be our basic communication tools moving forward. We have the email listserv, we will have Slack and for all documents and intermediate results, we will have the Google drive. We also have a git repository that is for Slack near term storage, as I understand it, of public facing results.
+
+00:15:54:01 - 00:16:30:09
+Unknown
+And Corey is going to be primarily in charge of that and managing that for us. Yes. And thank you. And you, Chris, when you put a message in the chat about the emails for JPL folks. Got it. Great. Okay. So Bruce already alluded to the enormous number of starts hack working groups. It is truly a monumental organization effort, but there's essentially the start side of things, which is in theory focusing on the science cases.
+
+00:16:30:09 - 00:16:58:06
+Unknown
+And then there's the tag side of things that is directly just focusing on the technology. And then there's, you know, everything that's in the middle of that is the interaction of science technology, which is should be literally everything about a space telescope. But somehow we've managed to figure out ways of abstracting it. And we are one we sit within the science case simulate we are a subgroup of the science case simulation working group, which is one of these joint groups that interfaces with both.
+
+00:16:58:08 - 00:17:21:13
+Unknown
+And if we dial down a bit, there's this giant spreadsheet that's link here that is called the cheat sheet because apparently we need cheat sheets because we have so many working groups. But this is what lives in science case simulation. And so it has us in the middle. There and we are working alongside a group focused on Astrometry and a group focused on galaxy evolution in the ultraviolet.
+
+00:17:21:15 - 00:17:55:21
+Unknown
+And so our primary contact in the hierarchy of star Tag is Akira Bursch and Chris and I are are running this thing. And as it says here, the the basic idea of what we are going to be doing over the next year to two years is really focusing in on simulating what we think expected exoplanet imaging results will look like from a variety of potential H2 view old like designs and mission operating rules and mission contexts and whatever else we can think of simulated.
+
+00:17:55:23 - 00:18:40:03
+Unknown
+So that is our charge and our primary purpose. And there's also language here about increasing the fidelity of yield modeling codes, which would be fantastic. There's always more fidelity that can be had. Okay, so because of the large number of these working groups and the various charges that they all have, and because the yield modeling takes in so many inputs that cut across so many of these working groups and so working groups, Chris had a great idea of just having liaisons to the other working groups that would ensure that we have a steady flow of information and inputs from the people whose primary charges are to decide on things that are essentially inputs or constraints
+
+00:18:40:03 - 00:19:00:19
+Unknown
+on our work. And so this is a snapshot of where we're mapping to, and this may be. So this is the current list of people. This is complete in terms of what we have nailed down. This may be incomplete in terms of what we want, in terms of cross group collaboration, but this is kind of a good start.
+
+00:19:00:21 - 00:19:26:17
+Unknown
+So as I said, we are exoplanet direct imaging yields sitting inside of science case simulation and we have identified liaison point people, many of whom are on this call. And so Natalie Hinkel is going to be our liaison with the Targeted Stars and Systems, which lives inside of the Discovering Living Worlds Working Group and Renew is going to serve as the interface to the characterizing Exoplanets group.
+
+00:19:26:19 - 00:19:57:02
+Unknown
+Jesse Christensen will serve as the interface, and we assign to the demographics and architectures of planetary systems, both of which live inside of understanding the solar system in its galactic context. Bruce is going to liaise with that high contrast subgroup that he just brought up. Dan is our liaison to the Chronographs So Working Group under the technology. Nicky to the whole of discovering living worlds and Stuart to the whole of the Systems Technology Working Group.
+
+00:19:57:04 - 00:20:30:22
+Unknown
+So I will pause here if anybody has comments for questions or inputs. Yes. Chris Yeah, and liaise in this context may mean ensure that it withers and dies because as Aki described the mission of the science data simulation group, it was to produce this desert tool. What does the editor tool do? Reads in a bunch of observatory parameters and stuff that defines a fiduciary science case and then produces that information about how about the execution of that science case?
+
+00:20:30:22 - 00:20:59:11
+Unknown
+As you very telescope an instrument parameters, one might say in some sense it would calculate the yield of a mission, a The only slight difference between that and what you're doing it is there was going to be a first step, which is sort of creating a pure exposure time calculator. But it would just be complete nonsense to do that from scratch as opposed to taking the access M's or Chris's version of it.
+
+00:20:59:13 - 00:21:28:24
+Unknown
+And then there's been some back and forth about whether we're supposed to produce full physics imaging simulations with proper, but that's two thirds of the time. Mark tells me we're not supposed to do that. So. So I think Bruce hit on a great topic, and I think at the last face to face meeting, it was pretty obvious that some of these definitions of working groups are a little bit ambiguous and sort of changing as we figure out how we're actually going to work together.
+
+00:21:29:01 - 00:21:50:13
+Unknown
+But I think I think your point is that a lot of the work we're going to have to do is cross group, right? And so, you know, we are going to have tasks within our group that are for us to decide. We're going to have tasks that where these liaisons really have to kind of work with their own group to give us inputs like occurrence rates and things like that.
+
+00:21:50:15 - 00:22:16:01
+Unknown
+And we have tasks that are inherently cross group like what you're describing. So if it goes beyond that, it's not like Interpenetration communion with die. I want to make sure that we're not suggesting those people are not participating. No, let me say this very clearly. Every other group on this, the thing like, you know, Jesse Ran knew there's an extremely well defined thing that's clearly their group's task.
+
+00:22:16:01 - 00:22:39:11
+Unknown
+And they transmit information to you. And those are critical. Yeah. I do not know what the well-defined task of science data simulation is that's distinct from yours anymore. I literally can't think of it. Given the boundary conditions that have been imposed. It's different than all of these other interfaces and and so. Okay, so sorry. I think Ronda has some input on that.
+
+00:22:39:11 - 00:23:02:19
+Unknown
+Specifically, I was under the impression that it would be a place where the astrophysics cases could also be brought in. So you could have like your different astrophysics for useful cases and then probably also an exoplanets case and you kind of all hook them into this same harness so that you can, you know, like change the telescope aperture, just turn the crank once on all of these guys, right?
+
+00:23:02:19 - 00:23:23:13
+Unknown
+So I was under the impression that that was the main role of that. And fortunately there are some really good tools out there to do that. Like so far I've worked with and I've hooked up exorcisms to the Sandia Labs, a software which is called Dakota. And, you know, they designed it so that you could have it's like a meta wrapper around whatever your very complicated model is.
+
+00:23:23:13 - 00:23:43:02
+Unknown
+So you've got your complicated model here and then and then you've got Dakota. And so you can do input scripts so that you could like template and tell it. Here are the parameters I want you to change now. I'm going to use your whole suite of tools to help design my experiment and what's going to be sparsely sampled, what's going be logarithmic and linear sampling, blah blah.
+
+00:23:43:04 - 00:24:05:01
+Unknown
+And then and then it can actually manage all these runs for you on a supercomputer around whatever your complex model is, which could be a whole bunch of different exposure type calculators and then a yield tool, and then it'll take the output from each one of those cases that it does that you've just told it to do. And we'll report that out to you in a table.
+
+00:24:05:03 - 00:24:30:22
+Unknown
+So so it enables you to do these very, very fast, very rapid parametric explorations. It's just one of the things that that tool is capable of. That's all I've used it for so far, that with uncertainty quantification and there's a separate group that's supposed to do, you know, general astrophysics using the imager, for example, separate subgroup with I'm not saying the whole science data simulation group is redundant.
+
+00:24:30:22 - 00:24:50:23
+Unknown
+There's there's pieces of it who are doing the spectrographs and the and the stuff. There's, there's maybe a slight crack. Like if somebody wanted to look with the Phonographic Imager at a high redshift galaxy, that would not naturally fall into any of the existing groups. That is that's something that's so important. It needs a whole working group over the next year.
+
+00:24:50:23 - 00:25:24:00
+Unknown
+And yeah, then there's maybe that the the interface between as as observatory parameters tracks exploration goes on maybe the role is is figuring out again how to connect image tools that that the group are on the call for now are creating into that observatory parameter exploration stuff. So the other possibility is there is a role for that group and John and I are just completely the wrong people to lead it because what it's going to be about is software management and interacting to to these proprietary tools.
+
+00:25:24:00 - 00:25:41:19
+Unknown
+So again, this is a higher level question, I think with Rocky. But but it is sort of fundamentally different than all the other interfaces that Dimitri and Chris are describing because yeah, sure. And I think I'd within my rights to go push the leadership to write down bullet point examples and say, Yes, no, you do this, somebody else does this.
+
+00:25:41:19 - 00:26:03:23
+Unknown
+And, and Dimitri and Chris and I and John can talk about it offline. So, yes, Kevin has been waiting very patiently. So just before I let you speak, Kevin, I'm sorry. I just want to say that I think that our primary what we really want to make sure is that there's not needlessly duplicated effort. And so it's important for us to understand what relevant groups are doing.
+
+00:26:04:00 - 00:26:24:21
+Unknown
+If it turns out that the high contrast subgroup evolves into something that is fairly duplicate of them, yes, absolutely. We will merge these efforts. It might not. So I don't think there's any decision that needs to be made right now. And as you say, Bruce, it's it's 100% proper for us to talk to you again and get clarification of of tasks.
+
+00:26:24:23 - 00:26:50:12
+Unknown
+But we're all working on this together. And so the only important thing here is keeping open channels of communication. Kevin, Thank you. Yeah. So just one thing that comes to mind listening to this conversation involved is that it sounds like perhaps a natural distinction between the direct imaging yield strip and the high contrast group is for this group to focus more specifically in on the actual habitable worlds science goal.
+
+00:26:50:14 - 00:27:14:19
+Unknown
+While there's still quite a bit of high contrast imaging science to be done, that has nothing to do with happening like Jupiter disks, things like that. So I 100% agree that our focus is on planet imaging. I do not want to constrain ourselves to just a habitable world case. I think that we can take a swing at, you know, imaging of companions in general.
+
+00:27:14:19 - 00:27:44:23
+Unknown
+But but there's additional pornography cases and and yes, I think by necessity, our primary goal initially, at least, will be on the, you know, the big Earth twin science case and also we shouldn't discount general astrophysics, high contrast imaging that there are some interesting things, too. And an excellent point. Thank you. Okay. I did not expect this particular site to generate this amount of discussion, but it's that's really great.
+
+00:27:45:03 - 00:28:12:12
+Unknown
+So thank you all for inputs. If you have or if you later think of as you're scanning through the massive list of subgroups or other natural connections that we should be maintaining, please reach out to Chris and me and and what a snow, what kind of links we're missing. Okay, So this is the just a couple of quick bullet points.
+
+00:28:12:12 - 00:28:47:18
+Unknown
+A charter that Chris wrote and I 100% agree with. So our working group is here in order to provide multiple independent estimates of scientific productivity of those exoplanet imaging instrumentation and to guide the start and tag efforts. And the particular approach that we will be using is an approach that actually essentially already exists. Rondo read the Standard Definition team, which sought to homogenize results between two completely different missions and to add various methodologies of computation.
+
+00:28:47:18 - 00:29:19:10
+Unknown
+And your first step is always to standardize your inputs, your assumptions, and then to calibrate how you're doing some fundamental calculations, such as exposure, time calculations, and then to go off and do these yield estimates in order to close the loop on various design decisions. Right. Because the whole point of view of modeling is to try in some nebulous fashion to map engineering design decisions, plus mission operation decisions into what happens with science and of course, making an unbelievable number of assumptions along the way.
+
+00:29:19:12 - 00:29:52:23
+Unknown
+But once you have that flow down, then you can close it and try to start guiding future engineering decisions, which is the hope for this whole process. And we are explicitly a joint, whatever the terminology is, we are in the middle of starting tag and so we are in service to both of them. We are in service to the science and to the technology, and we are we take inputs from both very explicitly excuse me, I apologize.
+
+00:29:52:23 - 00:30:00:20
+Unknown
+I have also been in meetings all day which people expect me to talk. Okay.
+
+00:30:00:22 - 00:30:36:22
+Unknown
+So this is a very notional kind of schedule of what products that we wish to generate and milestones largely driven by the timing of the start time, face to face meetings. So I'm not going to redraw this. You will have access to these slides if you don't already. But essentially our kind of like the very first thing we want to do is this to get all the start up to make sure that we have our advisory committee, which is you, and then reach out to the more global membership of the interested community.
+
+00:30:36:24 - 00:31:05:09
+Unknown
+And then for our first activity is that exposure time benchmark is the validation or cross verification of multiple different exposure time calculators given the same basic inputs. And this is always a really fun activity. And we'll we'll talk in a little bit more detail about that in a little bit. But you always learn a lot about your code and about other people's codes, and it's always a good time in a very infuriating kind of way.
+
+00:31:05:11 - 00:31:36:07
+Unknown
+So and once, once we have that, we will focus on updating existing documents of astrophysical assumptions and essentially keep a living document of these are all of our inputs, these are our fiduciary assumptions. This is what we assume is true or the range of truth that we wish to model, and that will serve as a common input for everybody who is actually trying to calculate yields.
+
+00:31:36:09 - 00:32:08:02
+Unknown
+So I think that's the most relevant in the short term of of our activities. So I guess I will also I'll pause here and see if people have input on priorities. And just with the caveat that I will be talking in more depth about some of these steps in just a little bit. And I'd like to know who's responsible for generating the list of observatory or observation and surveys strategies is that US is interface with that to any of the other working groups.
+
+00:32:08:04 - 00:32:29:18
+Unknown
+So I don't think that's us. We don't just get to decide. That is an excellent question and some think it's it's we can certainly so some of these efforts we can run ahead with some options if we want, right. So we shouldn't think that we are completely dependent upon another group to provide us with an input for us to make progress.
+
+00:32:29:20 - 00:32:55:21
+Unknown
+That being said, we could imagine, well, what if you instead of want to, instead of detecting orbits first, you'd literally go try to search for oxygen, even if you don't know the planets there from the get go, and then follow up with orbits later so we can play around with ideas like that. But ultimately, you know, we would bounce these ideas off of working groups like the Exoplanet Characterization, working Group and the Biosignatures Group and get their buy in on some of those ideas.
+
+00:32:55:21 - 00:33:25:03
+Unknown
+But it's not something where it's just a one way flow of information. So I, I, I mean, I guess the one my one hesitations, I'm not actually entirely sure whether things this granular make it into the exploratory case definitions. And I'm not sure if you know the answer to that. Chris It depends on what we want. So one of our products here is you can see the second to last product is a preliminary assessment of alternative survey strategies.
+
+00:33:25:05 - 00:33:41:16
+Unknown
+So that that is something where we have freedom to look at. The idea here is that during the LUBER and HABECK studies, we kind of all adopted something fairly similar, which is you have to find the planets first. You have to measure their orbits because Specter are so costly and then you can follow them up for spectral characterization.
+
+00:33:41:18 - 00:34:08:10
+Unknown
+And as Ronda showed during some of her papers and during the when she led the standards group, what is characterization? What does that mean is, you know, detecting the planets first and measuring their orbits first? Actually the best strategy. So the idea here is that we would revisit some of those assumptions that were made during the have X and do our studies and see whether they they are true or not.
+
+00:34:08:12 - 00:34:43:13
+Unknown
+They may. So this question maybe is more for you, but do does the exoplanet characterization has working group have a timeline for when they expect to know and understand what wavelengths or which portions of the spectra are going to be more important, or if they will have a prioritization scheme. Even broad brush strokes like near are a movie and how important they are to include.
+
+00:34:43:15 - 00:35:22:24
+Unknown
+We are just getting organized, so we're going to focus on some examples, science cases at the beginning. So I would estimate a couple of months on that before we broaden the scope to a variety of science cases. And that might take longer. And just to remind everyone that for us, our size cases will include not just the rocky planet, but also, you know, the diverse kind detecting and characterizing diverse kind of exoplanets.
+
+00:35:23:01 - 00:36:02:01
+Unknown
+Yes. Let's let's find some Jupiters as well. All right. Anyone else? Great. Okay. So some context for why we want to have the advisory committee and kind of what what what the expectations are. You are here because of your wealth and expertise and we would wipe your input on setting our overall priorities are kind of proximal priorities with what we should be focusing on month to month, month, and generally helping to coordinate the broader group and to guide the direction of this work.
+
+00:36:02:03 - 00:36:26:14
+Unknown
+You are not here because we're expecting you to compute yields yourselves, although some of you may wish to. And that's that would be fantastic. But you know, all of the yield calculation activity that's going to be essentially, you know, the people who have these codes and want to use them, plus anybody from the community who wants to roll their own and play along with us at home.
+
+00:36:26:16 - 00:36:46:09
+Unknown
+So the key thing that we want to stress is that we are not interested in going back, you know, starting from scratch. There's there's many decades of work in this area. You know, once people have brought up to BFC, I literally started grad school the year that BFC was formally canceled and zeroed out in the budget. So that was a real great start to my career.
+
+00:36:46:11 - 00:37:07:06
+Unknown
+But like we've been doing this for a long time and we have amassed a lot of expertise and we have written down a lot of stuff. So we are absolutely not throwing all of that away. We have the Standards Team report, which is a fantastic starting point for, you know, systematically assembling all of the input assumptions. We're going to polish that up.
+
+00:37:07:06 - 00:37:36:24
+Unknown
+We're going to dusted off and updated in many ways, but in none of the aspects of this group's work are we starting from zero and we want to leverage what exists and your expertise. And I wanted to highlight a parallel effort that Chris and and sorry, actually this is I guess of-I started the I don't know, the provenance of the modeling and analysis database, but this is an effort by a bunch of people to assemble a kind of giant list of tools that exist.
+
+00:37:36:24 - 00:37:58:03
+Unknown
+And it's it's very impressive. It's it's like a big spreadsheet of just stuff that is out there or I guess a small portion of it is closed source. But there's an enormous variety of tools. And despite, you know, having worked for several decades on this, I went through it and I found stuff that I'd never heard of before, which I really should know about.
+
+00:37:58:05 - 00:38:27:02
+Unknown
+So it's worth looking at because the community has been enormously productive and also enormously duplicative, which is okay because multiple codes to compute the same thing are a good thing. They allow us to check each other. So yeah, in terms of yield codes themselves, we have two codes that have been used for a long time. That doesn't mean that what we're done and we're not saying that nobody else should develop a new version of this.
+
+00:38:27:06 - 00:38:53:24
+Unknown
+That's obviously not the intent here. But our goal is not to create like the one Uber code. Our code is to agree on the inputs, to agree on the intermediate steps that they make sense within the context of the assumptions that each code is making and then provide a diversity of results, because there's definitely going to be a diversity of results based on how you choose to go about computing this prediction that is based on eleventy billion input assumptions.
+
+00:38:54:01 - 00:39:27:11
+Unknown
+So that's, that's, that's what we want to accomplish. That's the aspirational side. And I am. Yes, sorry. Yeah. One more thing about that kind of like scope question is there's the yields of detection and then there's the yields of first categories, ation through spectroscopy, but then there's the choose your own adventure that happens after that or any particular target or star Search.
+
+00:39:27:13 - 00:39:54:14
+Unknown
+And how far are we or is this group going to see their, you know, their mission to head down that? I mean, we are here to support the development of science cases, right? We're here to situate science cases. So whatever the science case calls for, we should do our best to provide a simulation for it. So if the science case calls for spectroscopic characterization in particular bands, that's what we should be simulating.
+
+00:39:54:18 - 00:40:13:11
+Unknown
+If it calls for orbital monitoring, that's what we should try to do. If somebody really wants to try to get the diurnal rotational period of a planet based on some kind of like her folding, I have no idea how to simulate that. But we should give it a shot, Right. So we're here to support the science cases. Yeah, right.
+
+00:40:13:13 - 00:40:33:19
+Unknown
+And I think specifically to your question about, you know, you talked about this choose your own adventure sort of thing where we find some fraction of objects that are interesting and follow them up for even more challenging exposure or something like that. I do think. It's possible to include those sorts of things in the yield calculations. That's, as you know, in simplistic, in a simplistic manner where we budget time for them and things like that.
+
+00:40:33:21 - 00:40:58:01
+Unknown
+Yeah, Yeah. And of course there's there's a multiple different approaches to all of this and some are more amenable to some calculations than others. And as we go along, we should we should always seek to verify results with as many separate lines of evidence as possible. But we may also find that we relegate some of these computations to one approach and some to another.
+
+00:40:58:03 - 00:41:06:13
+Unknown
+And I think that'll just shake out naturally as we go along. Okay.
+
+00:41:06:15 - 00:41:32:23
+Unknown
+So to close this out, Chris has already started the first of these stated efforts, which is exposure time calculator calibration, or in my engineering mind, I think of it as homogenization, but essentially it means the same thing. It turns out to be surprisingly hard to take two completely independently written, expose your time calculators and get them to output the exact same thing.
+
+00:41:33:00 - 00:42:06:18
+Unknown
+And so what the link here is to a subfolder within our Google Drive working sub working group subfolder that has the input a list of input assumptions as well as this spreadsheet. You're just seeing a screenshot of a tiny fraction of the spreadsheet, but essentially it's anybody can play. And so far there's four entrants and they list out what the how they interpret the basic parameters in, terms of the stated assumptions in that document that's also linked at the top here.
+
+00:42:06:20 - 00:42:40:00
+Unknown
+And then a, you know, just listing out a wide range of intermediate values. And of course, not every code calculates every intermediate value. And so one of the challenges in this kind of exercise is to ensure that we're using the same language to describe the same things and that we're actually comparing to numbers that should be comparable. And so we've already found some fascinating things, like we can't agree on exactly what the zero point flux of a star is, which is less concerning than it sounds.
+
+00:42:40:04 - 00:43:07:06
+Unknown
+I promise you. It's okay. It's actually fine. It's just has to do with the very sort of the modeling that's being done. But there's interesting things like that, right? So I like these these things can potentially move integration times by minutes or even hours. But when you're for a detections, but when you're talking about characterizations and you're talking about potentially weak one, things changes at the 10% level mean many days of difference in predicted integration times.
+
+00:43:07:08 - 00:43:29:15
+Unknown
+And so that's it's really important to understand where those scales of differences come from. So this is an ongoing effort. It's slated to go through April ish. And as I said, if you are interested or know if somebody wanted to jump in, there's many more columns in the spreadsheet. But what we're looking at is a baseline of comparisons and.
+
+00:43:29:15 - 00:43:58:17
+Unknown
+This is again, this is a tiny snapshot of the full spreadsheet. The full spreadsheet is a comparison of multiple different targets, and I think we're actually going to try to do this at a couple of different wavelengths just to shake out any chromatic effects. And we're going to learn. We are already learning some interesting things. It's probably worth mentioning, You know, so obviously this is the first meeting of the advisory committee and what you're looking at is our first product that is already underway.
+
+00:43:58:22 - 00:44:24:10
+Unknown
+And so the reason why this is already underway is because there are two other groups that have the same deliverable identified. So the chronograph design survey and the chronograph technology roadmap both wanted to do this and those efforts are winding down. And in fact, their deadlines are coming up here toward the end of the month. So this is something that we sort of had to kick start, but it's certainly not too late to join.
+
+00:44:24:10 - 00:44:52:14
+Unknown
+So if you or someone, you know, has a chronograph exposure time calculator, you want to get involved, please reach out to me. I can help bring you up to speed so that you are folded into this effort while it goes on. Yep. Okay. I don't expect a lot of discussion on this either. This is more in the sense of here's what's happening, but you should all go check out that folder because there's there's some real interesting stuff in there.
+
+00:44:52:16 - 00:45:37:15
+Unknown
+Right. Okay. So that's the end of the slides. Thank God. And so now stop sharing so we can see each other's faces more easily. So yeah, so the remainder of the time we wanted to spend and get and solicit input from you all, and in particular the input that we're seeking is once we finish the exposure time calculator, cross verification, what is, are there additional things of that nature that should be cross verified at a very exacting level between codes and some potential ideas that Chris and I had are like the way that we treat exclusivity, maybe even the way that we treat vocals already.
+
+00:45:37:17 - 00:46:28:17
+Unknown
+These, these are relatively have a relatively large impact on exposure times. And of course everything else, there's kind of wide open questions about the range of occurrence rate values of the ADA, values like Ada birth or ADA sub, anything that should be discussed and just more in general. What else should we be doing at this point? I guess one question I have is are we going to assume that a photon noise or are we going to assume some fraction of systematics or background calibration that will end up being in the noise estimate and impacting the yield?
+
+00:46:28:19 - 00:47:05:05
+Unknown
+So, I mean, I think that different different exposure time calculators effectively have different models that they're built around. And so depending on what model drove your UTC code that kind of answers that question, I think there's a there already existed a diversity of approaches in the ones that were across verifying right now, but all of them take as inputs a variety of noise terms and they just kind of do slightly different things with those noise terms.
+
+00:47:05:07 - 00:47:09:19
+Unknown
+So perhaps I missed the point of your question.
+
+00:47:09:21 - 00:47:41:08
+Unknown
+Well, I guess, yeah, exactly like the how the noise terms get either parameter rise or estimated. For instance, if the planet is faint her than the exo is is in that same pixel, which is likely to be the case for most of the rocky ones. Then the signal to noise ratio you achieve on the planet really depends on how well you can calibrate and remove the x those oldies.
+
+00:47:41:10 - 00:48:22:13
+Unknown
+And can you remove that quarter photon noise limit or you can't. That seems to me will have a large impact on the final result. Yes, agreed. And I don't know the answer to that, but I just wonder. So I did an initial cursory study of this saying if you know, if we just how if we just use our simple model of x ozone and try and subtract it and then we have some residual that I'll call calibration residual, i.e. that our model didn't actually match what's there, how much of that residual can we tolerate.
+
+00:48:22:15 - 00:48:50:14
+Unknown
+And, and my initial study showed that that has to be less than 1% of the brightness of the X sorry that's there. Otherwise we start getting in trouble. So I think that I think it's an important term to get to include. But it was fairly straightforward for me to add because I treated it like our other terms that don't get better with time averaging, which includes contrast stability and spatial speckle leakage.
+
+00:48:50:16 - 00:49:26:11
+Unknown
+Right? So I think at this point all codes have that that same term, right? We have a noise floor term that that makes the exposure time go to infinity as you approach some faint level of flux. So I think it's certainly possible that we all could fold in some sort of exclusivity calibration limit. Yeah, And I believe Stewart has in the past told me that they are already doing this for their their starshade analyzes where they kind of just have a bunch of these fours.
+
+00:49:26:11 - 00:49:48:18
+Unknown
+So we typically only include a noise four that's associated with the speckle residual, as Rhonda said, because that's driving growth, regulate the piece of stability. But you could add in quadrature in the denominator of your time equation as many of these noise terms as you want. And I believe Stuart has told me that they have something for Zoe, for speckle, for whatever else.
+
+00:49:48:20 - 00:50:29:15
+Unknown
+So that's just a matter of, of updating the model slightly. Right. We've done that. We're actually right now we're using Chris Chris's X0 model along with Miles Currie's work on what they call the worst case secondaries. And so we're incorporating that and we'll be using that to look at how A Well we can well yeah, the impacts of the Zoe whether we're subtracting some model of that or not, but, but it's now a more realistic Zoe than simple you know one of our squared or whatever for right.
+
+00:50:29:17 - 00:51:42:03
+Unknown
+It's other things we so something that Chris and I recently sort of lightly dabbled in is this question of if you have to revisit systems as part of, you know, orbit determination or other factors, but you're taking a imaging using an imaging spectrograph or you're using multiple bands where the chronographs and that is multiple, you know, chronographs or bands or in the sense there's a lot of parallel science that can come in or different multiple targets in a system or things like this is just something to sort of think about or consider is how in-depth we want to consider.
+
+00:51:42:03 - 00:52:26:12
+Unknown
+The that question. Or because again, I mean, I don't use phrase, but the choose your own adventure aspect, does it get very complex and multidimensional in that sense? So yeah, how we want to handle that. So I think that's a really excellent and fascinating question. We do start now bumping into kind of like expected scope, and I, I feel like Bruce isn't here anymore, but, but I feel like this is the intent of what Aki describes as this ultimately is that there is a a way of collecting all of these different modeling efforts and answering much more complex questions like this.
+
+00:52:26:14 - 00:52:56:20
+Unknown
+What like what happens if you are attempting to get the data that feeds several science cases at once? I feel like we're a ways away from that, but I do think it's an excellent thing to keep in mind. And so let's not lose track of it. I have a question of are you thinking simply of you get other planets in the system at the same time, or are you talking about parallels like there's a different astrophysics instrument that's working at the same time?
+
+00:52:56:22 - 00:53:25:01
+Unknown
+Not not to that, no. That's a level above what I was thinking. I was thinking there's been discussion of whether you have one visible channel and one infrared channel for, you know, when when trying to detect a planet. Right. Let's just start with that simple first, you definitely have to observe it. And if you have an if astronaut, if you if you and you're taking an imaging spectrograph, you have to use one in the visible and one or maybe you don't.
+
+00:53:25:01 - 00:54:03:20
+Unknown
+Maybe you just have images that you're taking. Let's say you do one visit where you detect point sources at 500 nanometers and then you, I assume, observed at the same time in the near infrared with an image in the near infrared. So if you get some color, but then you have to revisit the system to look at orbits of at least one point source that you detect should you keep the same near-infrared band that you used before, or should you choose a second band depending on, you know, there's a lot of different ways that you could go rather than just assuming that you take the exact same bands over and over and over again, from
+
+00:54:03:20 - 00:54:28:00
+Unknown
+one visit to another visit, just as an example. That's sense. Yeah, I think I agree with Dimitri, if I understand what you're saying correctly, which is, you know that there are infinitely many complex questions we can ask about how to how to actually conduct these observations. And some of these are, you know, we have we have decades to figure this out.
+
+00:54:28:02 - 00:54:50:18
+Unknown
+So some of these I think what we have to do is figure out what actually drives the design now and what is something that we can figure out over the long term, because those sorts of questions you're describing, you really need to be able to simulate that ability to react to an observation. Right. And that's something that's going to take time to figure out.
+
+00:54:50:20 - 00:55:12:08
+Unknown
+So, you know, if in our heads what we need to decide right now is, is this thing on or off axis and how big is it right then? Then a first order wag at a yield and and specifically a yield that, for example, drives the inner working angle or is the throughput or something that those are sort of the science goals we need to be working toward.
+
+00:55:12:10 - 00:55:45:16
+Unknown
+Yeah. I mean, I wasn't even thinking of a reactive I mean, I was thinking of a reactive assuming we have to react to a point source because we need to we know already from your work or your work that we need to be guys works efforts that we need to revisit to get orbits. To some extent that's not even a reactive sort of assumption that's built in, you know, And so the question is, if we want to separate a Neptune from a Jupiter in that process, can we do that with just a few pure set photometry bands in revisits?
+
+00:55:45:18 - 00:56:10:01
+Unknown
+And do we have to even assume that we have to do spectroscopy to answer that question? Is it better to have to chronographs invisible in order to do that with the photometry versus one and the near-infrared? Those seem like kind of like foundational things that greatly affect the overall yield because it's survey level questions right from the start.
+
+00:56:10:03 - 00:56:36:07
+Unknown
+So I think that we should be building towards the capability to answer very specific, well posed questions like the last two. But you asked but what you were saying earlier ultimately boils down to a global optimization over a essentially infinite design space. And it's not possible right? So ultimately, we will have fairly arbitrary design decisions and then we will optimize within the context of those.
+
+00:56:36:09 - 00:57:01:14
+Unknown
+But but very specific things like do we have two channels or three channels and what is the impact on overall yield that comes from those assumptions that we should be seeking to answer? Absolutely. Wouldn't that also kind of fall into one of the key products listed was survey strategies. So, I mean, this not included in that or just those needed to be better.
+
+00:57:01:14 - 00:57:32:11
+Unknown
+But I think what well, I think what what I had in mind and maybe I feel free to suggest something different was sort of these simplicity, like, you know, like a prescriptive rules for how one conducts a survey and that you would follow the same rule regardless of what system you're looking at. And so certainly I agree with Harvey that on a observation by observation basis, you might adjust your what you want to do based on what you see or based upon prior knowledge of the system or something.
+
+00:57:32:13 - 00:57:56:01
+Unknown
+But in terms of just simulate, you know, does survey style A or survey style B probably lead you to the science you want? You know, we need to think about, right, what how, how could you design the instrument to get you the survey that you want? And so an obvious example of this is like a energy resolving detector.
+
+00:57:56:01 - 00:58:29:00
+Unknown
+So with an energy resolving detector, you get spectra all the time. There is no broadband emerging. And so that obviously has the benefit. There's a lot of benefits associated with that. One of them is that you would get spectra on, you know, these Jupiters for free effectively when you're trying to find your earth. So if the science and cases that we want spectra on hundreds of exoplanets well that kind of pushes you to an instrument design that can enable that and it might push you to a observing strategy that helps with it.
+
+00:58:29:02 - 00:58:55:06
+Unknown
+All right. We are at the hour, Mark, So I want to thank everybody for the discussion. I think this is a really useful start and please, if you have additional thoughts on near-term priorities, just send them directly to us. You can now use the email listserv. So that will go to everybody at the same. And I think we're going to try to do this every couple of weeks and we'll see if that's an appropriate cadence.
+
+00:58:55:08 - 00:59:08:22
+Unknown
+So we will be checking in with all of you really soon. So thank you again. We really appreciate your time. Thank everyone. Thanks, Richard. Chris, thank you. Bye bye. Bye.
+
