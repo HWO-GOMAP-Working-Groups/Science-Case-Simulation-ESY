@@ -1,6 +1,6 @@
 # Exoplanet Science Yield Working Group
 
-The Exoplanet Science Yield Working Group (ESYWG) is a sub-group of the Science Case Simulation Working Group. ESYWG is chaired by Dmitry Savransky and Chris Stark
+The Exoplanet Science Yield Working Group (ESYWG) is a sub-group of the Science Case Simulation Working Group. ESYWG is chaired by Dmitry Savransky and Chris Stark.
 
 ## ESYWG Charter
 - Provide multiple independent estimates of scientific productivity of HWO’s exoplanet imaging instrumentation to guide START and TAG efforts. 
